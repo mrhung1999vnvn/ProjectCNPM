@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4016f2bd-15f7-41eb-a9f5-0038aa7cd2a5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1QuzIz3nTxWOIPlNofHktttVeAL" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\PHP_LOGIN_PROJECT\myapp\views" />
+      <recent name="C:\xampp\htdocs\PHP_LOGIN_PROJECT\myapp" />
+      <recent name="C:\xampp\htdocs\PHP_LOGIN_PROJECT" />
+      <recent name="C:\xampp\htdocs\PHP_LOGIN_PROJECT\public" />
+      <recent name="C:\xampp\htdocs\PHP_LOGIN_PROJECT\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4016f2bd-15f7-41eb-a9f5-0038aa7cd2a5" name="Default Changelist" comment="" />
+      <created>1568635192614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568635192614</updated>
+      <workItem from="1568635193769" duration="495000" />
+      <workItem from="1568635792355" duration="1367000" />
+      <workItem from="1568637394992" duration="45000" />
+      <workItem from="1568637480114" duration="6180000" />
+      <workItem from="1568799894451" duration="1491000" />
+      <workItem from="1568892654323" duration="9000" />
+      <workItem from="1568979202165" duration="5131000" />
+      <workItem from="1570087885623" duration="22193000" />
+      <workItem from="1570174613305" duration="99000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
